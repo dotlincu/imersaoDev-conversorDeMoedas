@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
-    background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-1-conversor-de-moedas.png");
+    background-image: url("https://img.freepik.com/fotos-premium/dinheiro-caindo-de-moedas-de-ouro-em-fundo-escuro_26018-1711.jpg?w=2000");
     background-color: #000000;
     background-size: 100vh;
     background-position: center bottom;
@@ -52,7 +52,7 @@ body {
     background: #ffffff;
   }
   
-  h2 {
+  h3 {
     color: #ffffff;
     font-size: 30px;
   }
