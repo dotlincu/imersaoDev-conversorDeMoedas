@@ -1,9 +1,9 @@
   body {
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
-    background-image: url("https://img.freepik.com/fotos-premium/dinheiro-caindo-de-moedas-de-ouro-em-fundo-escuro_26018-1711.jpg?w=2000");
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20201104/pngtree-stack-of-coins-on-pink-background-with-money-saving-concept-3d-image_460102.jpg");
     background-color: #000000;
-    background-size: 100vh;
+    background-size: 230vh;
     background-position: center bottom;
     background-repeat: no-repeat;
   }
@@ -11,7 +11,18 @@
   .container {
     text-align: center;
     padding: 20px;
-    height: 100vh;
+    height: 500px;
+    width: 500px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+  }
+
+  section {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .page-title {
